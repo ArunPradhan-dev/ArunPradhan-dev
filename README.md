@@ -1,4 +1,7 @@
 # Hi, I'm Arun 👋
+<p align="center">
+  <img src="./profile.png" alt="profile-image">
+</p>
 🎓 Engineering Student | 💻 Aspiring Java Backend Developer
 
 I'm an engineering student focused on building a strong foundation in **Java, Data Structures & Algorithms, Spring Boot, SQL, and Backend Development**.
