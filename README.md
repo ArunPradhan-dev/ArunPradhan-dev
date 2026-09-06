@@ -1,5 +1,5 @@
 # Hi, I'm Arun 👋
-
+<img src="./WhatsApp Image 2026-09-06 at 7.29.59 PM.jpeg" width="150" alt="Profile photo">
 🎓 Engineering Student | 💻 Aspiring Java Backend Developer
 
 I'm an engineering student focused on building a strong foundation in **Java, Data Structures & Algorithms, Spring Boot, SQL, and Backend Development**.
