@@ -1,4 +1,4 @@
-# Hi, I'm Arun 👋
+
 <p align="center">
   <img src="./profile.png" alt="profile-image">
 </p>
